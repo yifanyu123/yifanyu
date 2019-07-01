@@ -7,10 +7,10 @@ color: '#fee9b2'
 cover: '../assets/3.JPG'
 tags:　markdown coding
 ---
-#markdown语法
-##列表
+# markdown语法
+## 列表
 
-##表格
+## 表格
 姓名|技能|排行
 --|:--:|--:
 刘备|哭|大哥

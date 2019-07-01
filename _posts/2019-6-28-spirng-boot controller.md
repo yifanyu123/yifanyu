@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'spirng-boot MVC 入门'
+title: 'spirng-boot controller'
 date: 2019-06-28
 author: yifanyu
 color: '#f9fce1'
