@@ -4,7 +4,7 @@ title: 'markdown语法'
 date: 2019-06-28
 author: yifanyu
 color: '#fee9b2'
-cover: '../assets/3.png'
+cover: '../assets/3.jpg'
 tags:　markdown coding
 ---
 #markdown语法

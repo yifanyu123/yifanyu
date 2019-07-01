@@ -4,7 +4,7 @@ title: 'Hello Jekyll'
 date: 2017-04-18
 author: yifanyu
 color: rgb(255,210,32)
-cover: '../assets/1.png'
+cover: '../assets/1.jpg'
 tags: jekyll
 ---
 
