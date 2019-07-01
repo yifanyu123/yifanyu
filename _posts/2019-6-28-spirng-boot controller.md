@@ -4,7 +4,7 @@ title: 'spirng-boot MVC 入门'
 date: 2019-06-28
 author: yifanyu
 color: '#f9fce1'
-cover: '../assets/4.jpg'
+cover: '../assets/4.JPG'
 tags: spring-boot coding
 ---
 # spirng-boot MVC 入门

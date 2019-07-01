@@ -4,7 +4,7 @@ title: 'Spring Framework'
 date: 2019-06-27
 author: yifanyu123
 color: '#fbd1b7'
-cover: '../assets/2.jpg'
+cover: '../assets/2.JPG'
 tags: spring-boot coding
 ---
 
