@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'spirng-boot controller'
+title: 'spirng-boot-controller'
 date: 2019-06-28
 author: yifanyu
 color: '#f9fce1'
 cover: '../assets/4.JPG'
 tags: spring-boot coding
 ---
-# spirng-boot MVC 入门
+# spirng-boot Controller
 ## spring 中 Bean
 
 http://www.voidcn.com/article/p-peghajxt-bpb.html
