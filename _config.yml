@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+title: '小刺猬的个人博客'
+description: '越努力越幸运'
+keywords: '22N&林泳一'
+url: 'https://yifanyu123.github.com' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -14,12 +14,12 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+name: 'YIFAN'
+NickName: 'XCW'
+webtitle: '小刺猬的个人博客'
+bio: '嘻嘻'
 about: true
-aboutyou: 'your introduction'
+aboutyou: '嘻n'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -27,8 +27,8 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:abc@gmail.com'
   weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
+  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='957694179'&site=qq&menu=yes
+  github: 'https://github.com/yifanyu123'
   Codepen: ''
   weibo: ''
   instagram: ''
