@@ -46,6 +46,7 @@ tags: 微服务 coding
 
 ### Spring Cloud
 - 使用HTTP协议的REST API
+
 ### Dubbo
 - dubbo：Dubbo缺省协议采用单一长连接和NIO异步通讯，适合于小数据量大并发的服务调用，以及服务消费者机器数远大于服务提供者机器数的情况
 - rmi：RMI协议采用JDK标准的java.rmi.实现，采用阻塞式短连接和JDK标准序列化方式
