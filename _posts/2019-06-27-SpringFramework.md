@@ -9,7 +9,7 @@ tags: spring-boot coding
 ---
 
 # Spring Framework
-!["概览"](../assets/SpringFramework.jpg)
+!["概览"](https://yifanyu123.github.io/assets/SpringFramework.jpg)
 ## Ioc Container(DI)
 #### reference:
 https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html

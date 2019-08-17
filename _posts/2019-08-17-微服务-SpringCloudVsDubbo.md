@@ -22,12 +22,12 @@ tags: 微服务 coding
 单块架构应用也可以实现横向扩展，就是将整个应用完整的复制到不同的节点。当应用的不同组件在扩展需求上存在差异时，微服务架构便体现出其灵活性，因为每个服务可以根据实际需求独立进行扩展。
 
 ## 微服务思维导图
-!["微服务思维导图"](../assets/微服务.png)
+!["微服务思维导图"](https://yifanyu123.github.io/assets/微服务.png)
 ## 总体架构
 - Dubbo
-!["dubbo"](../assets/dubbo.png)
+!["dubbo"](https://yifanyu123.github.io/assets/dubbo.png)
 - Spring Cloud
-!["SpringCloud"](../assets/eureka.png)
+!["SpringCloud"](https://yifanyu123.github.io/assets/eureka.png)
 ## 核心要素
 
 |核心要素|Dubbo|	Spring Cloud|
@@ -53,7 +53,7 @@ tags: 微服务 coding
 - http:采用Spring的HttpInvoker实现
 
 ## Spring Cloud 工作流程
-!["springCLoud工作流程"](../assets/SpringCloud.png)
+!["springCLoud工作流程"](https://yifanyu123.github.io/assets/SpringCloud.png)
 
 
 
