@@ -3,7 +3,7 @@ layout: post
 title: 'spirng-boot-controller'
 date: 2019-06-28
 author: yifanyu
-color: '#f9fce1'
+color: '#105e62'
 cover: '../assets/cover/4.JPG'
 tags: spring-boot coding
 ---
