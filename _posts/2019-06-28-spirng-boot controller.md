@@ -4,7 +4,7 @@ title: 'spirng-boot-controller'
 date: 2019-06-28
 author: yifanyu
 color: '#f9fce1'
-cover: '../assets/4.JPG'
+cover: '../assets/cover/4.JPG'
 tags: spring-boot coding
 ---
 # spirng-boot Controller
@@ -132,4 +132,4 @@ https://juejin.im/post/5b1b841de51d4506d47df108
 - reference:
     - https://www.jianshu.com/p/9062a92fbf9a
     - https://blog.csdn.net/HEYUTAO007/article/details/5981555
-- @Data 
+- @Data

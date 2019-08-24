@@ -4,7 +4,7 @@ title: '微服务:SpringCloudVsDubbo'
 date: 2019-08-17
 author: 小刺猬
 color: '#d3f6f3'
-cover: '../assets/5.JPG'
+cover: '../assets/cover/5.JPG'
 tags: 微服务 coding
 ---
 # 微服务:SpringCloudVsDubbo
